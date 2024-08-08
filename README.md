@@ -30,7 +30,7 @@ Ensure you have the following installed on your machine:
    Obtain the WalletConnect project ID from [WalletConnect](https://cloud.walletconnect.com/).
 
    ```env
-   WALLET_CONNECT_PROJECT_ID=<your_wallet_connect_project_id>
+   NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID=<your_wallet_connect_project_id>
    ```
 
 4. **Install dependencies:**
